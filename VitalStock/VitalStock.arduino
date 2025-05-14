@@ -1,0 +1,11 @@
+/src
+  /vitalstock
+    /screens
+      TreatmentLibraryScreen.js
+      TreatmentDetailScreen.js
+    /components
+      TreatmentItem.js  // Optional: For individual list item display
+    /navigation
+      AppNavigator.js  // Optional: For managing navigation
+    /firebase
+      firebaseConfig.js  // Firebase setup and initialization
